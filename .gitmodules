@@ -1,0 +1,3 @@
+[submodule "meta-ros"]
+	path = meta-ros
+	url = git@github.com:ckrooss/meta-ros.git
